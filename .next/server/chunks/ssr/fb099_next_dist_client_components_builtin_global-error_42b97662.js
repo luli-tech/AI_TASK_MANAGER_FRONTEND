@@ -1,0 +1,3 @@
+module.exports=[22054,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(65381);a.n(d("[project]/Downloads/task-manager-web-app/node_modules/.pnpm/next@16.0.3_@opentelemetry+_162ef2eee2977cfe0d3476575909914c/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},42665,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(65381);a.n(d("[project]/Downloads/task-manager-web-app/node_modules/.pnpm/next@16.0.3_@opentelemetry+_162ef2eee2977cfe0d3476575909914c/node_modules/next/dist/client/components/builtin/global-error.js"))},44385,a=>{"use strict";a.i(22054);var b=a.i(42665);a.n(b)}];
+
+//# sourceMappingURL=fb099_next_dist_client_components_builtin_global-error_42b97662.js.map
